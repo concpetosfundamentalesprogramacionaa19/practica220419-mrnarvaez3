@@ -9,6 +9,8 @@
 # lectura de datos
 dato1 = input("Ingrese el vaor 1: ")
 dato2 = input("Ingrese el valor 2: ")
+
+
 suma = int(dato1) + int(dato2)
 multiplicacion = int(dato1) * int(dato2)
 # salida de datos
